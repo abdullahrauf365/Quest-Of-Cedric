@@ -63,7 +63,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-04.svg')}
+                      src={require('./../../assets/images/computer-game.png')}
                       alt="Features tile icon 01"
                       width={64}
                       height={64} />
@@ -85,7 +85,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-05.svg')}
+                      src={require('./../../assets/images/console.png')}
                       alt="Features tile icon 02"
                       width={64}
                       height={64} />
@@ -107,7 +107,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/feature-tile-icon-06.svg')}
+                      src={require('./../../assets/images/puzzle.png')}
                       alt="Features tile icon 03"
                       width={64}
                       height={64} />
